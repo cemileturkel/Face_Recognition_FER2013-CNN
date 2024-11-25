@@ -41,6 +41,7 @@
         "import seaborn as sns\n",
         "import tensorflow as tf\n",
         "import matplotlib.pyplot as plt\n",
+        "from sklearn.metrics import confusion_matrix\n"
         "from sklearn.model_selection import train_test_split\n",
         "from tensorflow.keras.preprocessing.image import load_img\n",
         "from tensorflow.keras.models import Sequential\n",
